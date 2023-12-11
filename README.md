@@ -2,7 +2,7 @@
 - 👀 I’m interested in remote sensing
 - 🌱 I’m currently learning how to manage forest
 - 📫 How to reach me : dzaky8052@gmail.com
-- my discord server https://discord.io/Ngebo (Indo language)
+- my discord server https://discord.gg/SwFKtsZB6a (Indo language)
 
 <!---
 muhammaddzakymubarak/muhammaddzakymubarak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
